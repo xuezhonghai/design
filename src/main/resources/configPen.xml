@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<config>
+    <className>zhonghai.xue.design.structure.bridge.Red</className>
+    <className>zhonghai.xue.design.structure.bridge.SmallPen</className>
+</config>
