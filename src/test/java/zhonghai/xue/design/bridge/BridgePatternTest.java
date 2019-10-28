@@ -4,6 +4,9 @@ import org.junit.jupiter.api.Test;
 import zhonghai.xue.design.structure.bridge.Color;
 import zhonghai.xue.design.structure.bridge.Pen;
 import zhonghai.xue.design.structure.bridge.XMLUtilPen;
+import zhonghai.xue.design.structure.composite.ConcreteCompany;
+import zhonghai.xue.design.structure.composite.FinanceDepartment;
+import zhonghai.xue.design.structure.composite.HRDepartment;
 
 public class BridgePatternTest {
 
@@ -19,4 +22,7 @@ public class BridgePatternTest {
         pen.draw("鲜花");
 
     }
+
+
+
 }

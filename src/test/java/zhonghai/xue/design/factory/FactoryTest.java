@@ -1,7 +1,6 @@
 package zhonghai.xue.design.factory;
 
 import org.junit.jupiter.api.Test;
-import zhonghai.xue.design.create.factory.base.AkFactory;
 import zhonghai.xue.design.create.factory.base.Bullet;
 import zhonghai.xue.design.create.factory.base.Gun;
 import zhonghai.xue.design.create.factory.base.M4A1Factory;
